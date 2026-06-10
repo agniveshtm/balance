@@ -1,0 +1,6 @@
+{
+  "name": "Balance",
+  "description": "A refined, high-fidelity Material 3 personal finance budget tracker with interactive charts, history search, and customized spending limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
